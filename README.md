@@ -53,13 +53,11 @@ Yes! This was a highly requested Quality of Life feature. We worked closely with
 
 ## Special Thanks
 
-- Digiex.net as well as ProjectPokemon.org for preserving the original Aurora Ticket Distribution ROM 
+- Digiex.net, as well as ProjectPokemon.org, for preserving the original Aurora Ticket Distribution ROM. 
 
-- imablisy and Papa Jefé for testing our PCNY egg distribution for RNG purposes
+- imablisy and Papa Jefé for testing our PCNY egg distribution for RNG purposes.
 
-- Alcaro for developing and releasing Flips.exe
-
-- Translation Teams (No particular order)
+- Translation Teams, in no particular order: 
 
 ### German Translation Team 
  - CatzumaGaming
