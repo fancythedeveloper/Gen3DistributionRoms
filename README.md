@@ -1,31 +1,105 @@
-# Gen3DistributionRoms
 
-Every distribution rom available in this post is made from the Aurora Ticket, however there are different versions depending on the game you want to use them with (FRLG is for FireRed and LeafGreen versions, and EMER is for Emerald version.). They'll have their each "Now Sending" messages to prevent confusion. However please note that you can't use Emerald's Aurora Ticket distribution on FireRed and LeafGreen versions... even though that would be exciting!
+# Project Wonder (JoySpot Update)
 
-FireRed and LeafGreen:
-- Aurora Ticket
-- Mystic Ticket
-- Altering Cave
-- All 6 Wish Egg Pokémon (Chansey, Drowzee, Exeggcute, Farfetch'd, Kangaskhan, and Lickitung)
+With the included .bps patches, you'll be able to distribute event items introduced in the generation 3 Pokémon games (Aurora Ticket, Mystic Ticket, etc.) as well as a few newly introduced custom events (Decoration Set as well as Mystery Gift). We've spent countless hours developing, testing, and collaborating with translation teams to give Pokémon FireRed, LeafGreen, and Emerald version a breath of fresh air. Let's take a look to see what's included.
 
-Emerald:
-- Aurora Ticket
-- Mystic Ticket
-- Altering Cave
-- Old Sea Map
-- Eon Ticket
+## Features
 
-As we worked on this project, we carefully decided how and if we were going to release this at all. However we ultimately made the decision that if we were going to release this, we needed more than just a watermark to prove it was custom. So we made the difficult choice to rework the wonder cards (aligning the text to make them all uniform), as well as using debug scripts found within the game to achieve the same result of obtaining the event items... just without using unpreserved event rom data. Lastly about the wish eggs, unfortunately the community hasn't been able to find the distribution rom, or the scripts alongside the wonder card... so we had to use the Pokémon Egg Gift (extended) script made by Suloku! The original rom for the wish eggs had a randomization function that as of this post hasn't been recreated, so we decided to still include all 6 separately in their own roms.
+- Multi-Language support (English, French, German, Italian, Japanese and Spanish)
+- 10 Patch files to convert into fully usable distribution ROMS 
+- New Custom Events (Decoration Set and Mystery Gift)
+- Pokémon Egg Distributions give random eggs to simulate the original Events
+- And so many more Quality of Life changes!
 
-Equipment Required:
+
+## How to use
+
+- Download the github repository onto your desktop
+- Download the unmodified Aurora Ticket distribution ROM (Link below) and place the ROM into the downloaded folder
+- Download the Flips.exe program (Credit to Alcaro and Link Below)
+- Open the flips.exe program
+- Select Apply Patch 
+- Choose the patch file you'd like to use
+- Select your unmodified Aurora Ticket Distribution ROM
+- Save your newly patched Distribution ROM 
+- Either load the ROM through an emulator or flash cart of your choice. (We cannot promise or guarantee our distributions will be compatible with the software or hardware you choose)
+
+
+## Equipment Required for Hardware users
+
 - 2x GBA's
 - 2x GBA Wireless Adapters
-- 1x Flash Cart (like EZ-Flash or Everdrive)
-- 1x English Language Emerald, FireRed or LeafGreen cartridge
+- 1x Flash Cart (We cannot guarantee compatibility for your Flash Cart of choice)
+- 1x Copy of Pokémon FireRed, LeafGreen, or Emerald
+
+## Emulator Necessities
+
+- Patched Distribution ROMs
+- Emulator of choice that supports the wireless adapter (We cannot guarantee compatibility for your emualtor or choice)
+- Dump personal copy of Pokémon FireRed, LeafGreen, or Emerald onto your computer
+## FAQ
+
+#### Where's the Emerald or FireRed/LeafGreen version Distribution ROM?
+
+Great question, unlike the previous release a few years ago. You're now able to distribute multiple events to both versions using 1 Distribution ROM, however Emerald exclusive events (Eon Ticket, Old Sea Map, and Decoration Set) will not send to FireRed/LeafGreen versions.
+
+#### Will the distributions work for my (insert language here) copy?
+
+Yes! This was a highly requested Quality of Life feature. We worked closely with translation teams for the French, German, Italian, Japanese, and Spanish languages to give our community an unforgettable experience.
+
+## Links
+
+ - [Goppier's Youtube Channel](https://www.youtube.com/@Goppier)
+ - [Alcaro (Developer of Flips.exe)](https://github.com/Alcaro/Flips/releases)
+ - [Aurora Ticket Download (Digiex.net)](https://digiex.net/threads/pokemon-aurora-ticket-distribution-usa-gba-cartridge-rom-download-usa.14901/)
 
 
-Credits:
+## Special Thanks
 
-Deoxyz - The member who initially released the Aurora Ticket Rom for the public. https://digiex.net/threads/pokemon-...ion-usa-gba-cartridge-rom-download-usa.14901/
+- Digiex.net as well as ProjectPokemon.org for preserving the original Aurora Ticket Distribution ROM 
 
-Multiple members of the digiex and projectpokemon community that researched these events and made all of the info available to the public (AJXPK, Bond697,Sabresite, Gridelin, and many more wonderful and amazing people involved.) All of you are on equal standing in terms of importance and we can't thank you enough for the time and sacrifices you've made for the community. https://projectpokemon.org/home/forums/topic/35903-gen-3-mystery-eventgift-research/
+- imablisy and Papa Jefé for testing our PCNY egg distribution for RNG purposes
+
+- Alcaro for developing and releasing Flips.exe
+
+- Translation Teams (No particular order)
+
+### German Translation Team 
+ - CatzumaGaming
+ - Aerial
+ - Caretaker Yuri
+ - Darkexy
+ - jj_olli
+ - luna_vaal
+ - mischmeisterp
+ - strohuat
+ 
+ ### Spanish Translation Team
+  - Caff 
+  - Jellal
+  - NoMoreYoRHa
+  - purplejc_06
+  - Lightwaves
+
+  ### French Translation Team
+  - Alexx
+  - PCB_Fox
+  - Utena
+  - jswbb
+  - La Foulq
+
+  ### Japanese Translation Team
+  - Loog
+  - Darkaim
+  - SP72
+  - grafteppelin
+  - nekonote_lapis
+  - genusie
+  - good_student_bobo
+  - Cowth
+
+  ### Italian Translation Team
+  - Manu
+  - Kyro
+  - Shenk
+  - alby04lev
